@@ -1,0 +1,11 @@
+C:\Users\jug11\OneDrive\바탕 화면\client\client\bin\Debug\client.exe.config
+C:\Users\jug11\OneDrive\바탕 화면\client\client\bin\Debug\client.exe
+C:\Users\jug11\OneDrive\바탕 화면\client\client\bin\Debug\client.pdb
+C:\Users\jug11\OneDrive\바탕 화면\client\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\jug11\OneDrive\바탕 화면\client\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+C:\Users\jug11\OneDrive\바탕 화면\client\client\obj\Debug\client.Form1.resources
+C:\Users\jug11\OneDrive\바탕 화면\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\jug11\OneDrive\바탕 화면\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\jug11\OneDrive\바탕 화면\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\jug11\OneDrive\바탕 화면\client\client\obj\Debug\client.exe
+C:\Users\jug11\OneDrive\바탕 화면\client\client\obj\Debug\client.pdb
